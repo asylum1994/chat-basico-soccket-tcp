@@ -1,0 +1,4 @@
+com\mycompany\socket_tcp_practica\Socket_tcp_practica.class
+com\mycompany\socket_tcp_practica\Servidor.class
+com\mycompany\socket_tcp_practica\Cliente.class
+com\mycompany\socket_tcp_practica\HiloCliente.class
